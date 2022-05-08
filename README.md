@@ -1,2 +1,2 @@
-# algorithmVisualizer
+# Algorithm Visualizer
 visualization of algorithms
